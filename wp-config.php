@@ -25,12 +25,12 @@ define( 'DB_NAME', 'db_test' );
 // define( 'DB_NAME', 'db_nand' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
-// define( 'DB_USER', 'nand' );
+// define( 'DB_USER', 'root' );
+define( 'DB_USER', 'nand' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
-// define( 'DB_PASSWORD', '3Y#8nY@kW' );
+// define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '3Y#8nY@kW' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
